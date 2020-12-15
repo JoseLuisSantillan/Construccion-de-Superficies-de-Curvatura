@@ -1,7 +1,7 @@
 # Construccion-de-Superficies-de-Curvatura
 Proyecto Final de Cálculo 3 y Programación 2
 
-### Hecho por José Santillán y Joel del Castillo👋
+### Hecho por José Luis Santillán y Joel del Castillo👋
 
 ### Herramientas:
 
